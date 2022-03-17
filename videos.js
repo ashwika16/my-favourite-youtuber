@@ -1,3 +1,3 @@
 function exit() {
-    window.location = "home.html";
+    window.location = "main.html";
 }
